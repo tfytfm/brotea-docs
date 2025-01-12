@@ -9,8 +9,10 @@ description: Hackaton MODE
 * Nextjs (frontend)
 * Dify (AI)
 * Clark (Auth)
+* Eliza (Framework AI)
 * Mermaid (Diagrams)
-*
+
+
 
 
 
