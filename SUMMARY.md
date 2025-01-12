@@ -27,6 +27,7 @@
   * [Apps](tfytfm/apps/README.md)
     * [Super Agent AI](tfytfm/apps/super-agent-ai/README.md)
       * [Agente para aprendizaje de palabras](tfytfm/apps/super-agent-ai/agente-para-aprendizaje-de-palabras.md)
+      * [Use cases](tfytfm/apps/super-agent-ai/use-cases.md)
     * [TFYTFM - Landing page](tfytfm/apps/tfytfm-landing-page.md)
     * [Creditalent](tfytfm/apps/creditalent.md)
     * [IDEAS](tfytfm/apps/ideas.md)
